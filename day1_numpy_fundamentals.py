@@ -34,3 +34,5 @@ print(np.std(data, axis=0))
 
 print("\nVariance of Each Feature:")
 print(np.var(data, axis=0))
+print("/nTotal number of data rows:")
+print(len(data))
