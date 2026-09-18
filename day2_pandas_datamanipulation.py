@@ -40,3 +40,5 @@ parquet_size = os.path.getsize("cleaned_covid_data.parquet")
 print("\nFile Size Comparison:")
 print("CSV size:", csv_size, "bytes")
 print("Parquet size:", parquet_size, "bytes")
+#display no of rows after cleaning
+print("\nNumber of rows:" , len(df))
