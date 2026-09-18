@@ -42,3 +42,7 @@ print("CSV size:", csv_size, "bytes")
 print("Parquet size:", parquet_size, "bytes")
 #display no of rows after cleaning
 print("\nNumber of rows:" , len(df))
+# Display final dataset information
+print("\nFinal Dataset Information:")
+print("Rows:", df.shape[0])
+print("Columns:", df.shape[1])
