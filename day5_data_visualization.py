@@ -48,3 +48,4 @@ plt.xticks(range(len(corr.columns)), corr.columns, rotation=90)
 plt.yticks(range(len(corr.columns)), corr.columns)
 plt.title("Correlation Heatmap")
 plt.show()
+# Visualization practice completed with Matplotlib and Seaborn
