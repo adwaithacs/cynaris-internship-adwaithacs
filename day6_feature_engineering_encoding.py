@@ -97,3 +97,8 @@ print("\nFeature Scores:")
 print(feature_scores)
 print("\nTop 5 Features:")
 print(feature_scores.head(5))
+
+# Feature Engineering Summary
+# Encoding: LabelEncoder, OneHotEncoder, OrdinalEncoder
+# Scaling: StandardScaler, MinMaxScaler, RobustScaler
+# Feature Selection: SelectKBest
