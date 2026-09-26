@@ -66,3 +66,10 @@ print(cv_scores)
 print("\nMean Cross-Validation R² Score:")
 print(cv_scores.mean())
 
+# Summary
+print("\n--- W2D4 Summary ---")
+print("Train/Test Split: 80% training, 20% testing")
+print("Scaling methods: StandardScaler, MinMaxScaler, RobustScaler")
+print("Cross-Validation: 5-Fold")
+print("W2D4 practical task completed successfully.")
+
