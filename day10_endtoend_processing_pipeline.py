@@ -103,3 +103,15 @@ print("\nFinal Dataset Columns:")
 print(df.columns.tolist())
 
 print("\nML-ready dataset saved successfully!")
+# ---------- FINAL VALIDATION ----------
+
+print("\n========== FINAL VALIDATION ==========")
+
+print("Final dataset shape:", df.shape)
+print("Total missing values:", df.isnull().sum().sum())
+print("Total duplicate rows:", df.duplicated().sum())
+
+print("\nFinal columns:")
+print(df.columns.tolist())
+
+print("\nML-ready dataset is ready for machine learning.")
