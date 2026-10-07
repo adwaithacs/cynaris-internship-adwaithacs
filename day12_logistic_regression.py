@@ -123,3 +123,12 @@ for c in [0.01, 0.1, 1, 10, 100]:
         f"Accuracy={accuracy_score(y_test, c_pred):.4f} "
         f"ROC-AUC={roc_auc_score(y_test, c_prob):.4f}"
     )
+
+# Self Review
+
+print("\n========== SELF REVIEW ==========")
+print("Logistic Regression trained successfully.")
+print("Accuracy and ROC-AUC calculated.")
+print("Confusion matrix and classification report generated.")
+print("Feature coefficients analyzed.")
+print("C values compared.")
