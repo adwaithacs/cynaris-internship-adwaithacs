@@ -123,3 +123,13 @@ plt.xlabel("Predicted")
 plt.ylabel("Residuals")
 plt.title("Residual Plot")
 plt.show()
+
+# Self Review
+
+print("\n========== SELF REVIEW ==========")
+print("Linear Regression trained successfully.")
+print("MSE, RMSE, MAE and R² calculated.")
+print("Ridge and Lasso compared.")
+print("Predicted vs Actual plot generated.")
+print("Residual plot generated.")
+print("Linear Regression coefficients displayed.")
