@@ -47,3 +47,14 @@ print(classification_report(y_test, svm_predictions))
 
 print("\nKNN Classification Report:")
 print(classification_report(y_test, knn_predictions))
+
+
+# Compare different K values for KNN
+print("\nKNN Accuracy for Different K Values:")
+
+for k in [3, 5, 7, 9]:
+    model = KNeighborsClassifier(n_neighbors=k)
+    model.fit(X_train, y_train)
+    predictions = model.predict(X_test)
+    accuracy = accuracy_score(y_test, predictions)
+    print(f"K = {k}: {accuracy * 100:.2f}%")
