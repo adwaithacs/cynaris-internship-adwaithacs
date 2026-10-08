@@ -69,3 +69,18 @@ random_predictions = random_search.predict(X_test)
 print("RandomizedSearch Test Accuracy:",
       round(accuracy_score(y_test, random_predictions) * 100, 2), "%")
 
+# Compare GridSearchCV and RandomizedSearchCV results
+print("\n--- Hyperparameter Tuning Comparison ---")
+
+print(f"GridSearchCV best parameters: {grid_search.best_params_}")
+print(f"RandomizedSearchCV best parameters: {random_search.best_params_}")
+
+print(f"GridSearchCV CV accuracy: {grid_search.best_score_ * 100:.2f}%")
+print(f"RandomizedSearchCV CV accuracy: {random_search.best_score_ * 100:.2f}%")
+
+if grid_search.best_score_ > random_search.best_score_:
+    print("GridSearchCV performed better.")
+elif random_search.best_score_ > grid_search.best_score_:
+    print("RandomizedSearchCV performed better.")
+else:
+    print("Both methods achieved the same CV accuracy.")
