@@ -1,0 +1,51 @@
+text,intent,predicted_intent,correct
+My temperature has been high since yesterday,fever,fever,True
+I have a fever and feel weak,fever,fever,True
+What can cause a temperature of 101 F?,fever,fever,True
+I am feeling feverish tonight,fever,diabetes,False
+My child has a temperature and is tired,fever,fever,True
+How should I monitor a fever at home?,fever,fever,True
+Fever has continued for three days,fever,fever,True
+I have a raised temperature with body aches,fever,fever,True
+When should someone seek help for a persistent fever?,fever,fever,True
+Could recurring fever after mosquito exposure be malaria?,malaria,malaria,True
+What are warning signs of malaria?,malaria,malaria,True
+How do doctors test for malaria?,malaria,malaria,True
+Can malaria cause sweating and chills?,malaria,malaria,True
+How can I reduce mosquito bites to prevent malaria?,malaria,malaria,True
+I returned from a malaria-risk area and now feel unwell,malaria,malaria,True
+Does malaria need a blood test?,malaria,malaria,True
+What should I know about malaria prevention?,malaria,malaria,True
+I have fever episodes and shaking chills; could it be malaria?,malaria,fever,False
+I feel unusually thirsty and need to urinate often,diabetes,diabetes,True
+What does a high blood glucose result mean?,diabetes,diabetes,True
+Can you explain HbA1c in simple words?,diabetes,diabetes,True
+What food choices can help manage type two diabetes?,diabetes,diabetes,True
+How can I check my blood sugar at home?,diabetes,diabetes,True
+My feet feel numb and I have diabetes,diabetes,diabetes,True
+What is the difference between fasting glucose and HbA1c?,diabetes,diabetes,True
+Where can I get advice about diabetes management?,diabetes,diabetes,True
+I keep sneezing and my nose is blocked,cold_flu,cold_flu,True
+My throat is scratchy and I have a cough,cold_flu,cold_flu,True
+How long does a common cold usually last?,cold_flu,cold_flu,True
+What can help with congestion from a cold?,cold_flu,cold_flu,True
+Should I ask about an annual flu vaccine?,cold_flu,cold_flu,True
+I have a runny nose and feel achy,cold_flu,cold_flu,True
+How can I reduce spreading a respiratory infection at home?,cold_flu,cold_flu,True
+I have a cough and mild cold symptoms,cold_flu,cold_flu,True
+My blood pressure reading was higher than usual,hypertension,hypertension,True
+What habits may help lower blood pressure?,hypertension,hypertension,True
+How often should I measure my blood pressure?,hypertension,hypertension,True
+Can stress affect a person's blood pressure?,hypertension,hypertension,True
+What does the top number in a BP reading mean?,hypertension,diabetes,False
+I want to learn about food choices for hypertension,hypertension,hypertension,True
+What should I discuss with a clinician about BP medicine?,hypertension,hypertension,True
+How do I keep a record of my blood pressure readings?,hypertension,hypertension,True
+How do I find the clinic's opening hours?,general_query,general_query,True
+Can you explain how to schedule a doctor appointment?,general_query,general_query,True
+Where can I ask about a health insurance reimbursement?,general_query,general_query,True
+I need information about renewing a prescription,general_query,general_query,True
+How can I book a laboratory test?,general_query,general_query,True
+Where do I ask about my medical records?,general_query,general_query,True
+Who can help me understand the clinic registration process?,general_query,general_query,True
+How do I contact the healthcare support desk?,general_query,cold_flu,False

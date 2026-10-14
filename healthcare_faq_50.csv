@@ -1,0 +1,51 @@
+text,intent
+"My temperature has been high since yesterday",fever
+"I have a fever and feel weak",fever
+"What can cause a temperature of 101 F?",fever
+"I am feeling feverish tonight",fever
+"My child has a temperature and is tired",fever
+"How should I monitor a fever at home?",fever
+"Fever has continued for three days",fever
+"I have a raised temperature with body aches",fever
+"When should someone seek help for a persistent fever?",fever
+"Could recurring fever after mosquito exposure be malaria?",malaria
+"What are warning signs of malaria?",malaria
+"How do doctors test for malaria?",malaria
+"Can malaria cause sweating and chills?",malaria
+"How can I reduce mosquito bites to prevent malaria?",malaria
+"I returned from a malaria-risk area and now feel unwell",malaria
+"Does malaria need a blood test?",malaria
+"What should I know about malaria prevention?",malaria
+"I have fever episodes and shaking chills; could it be malaria?",malaria
+"I feel unusually thirsty and need to urinate often",diabetes
+"What does a high blood glucose result mean?",diabetes
+"Can you explain HbA1c in simple words?",diabetes
+"What food choices can help manage type two diabetes?",diabetes
+"How can I check my blood sugar at home?",diabetes
+"My feet feel numb and I have diabetes",diabetes
+"What is the difference between fasting glucose and HbA1c?",diabetes
+"Where can I get advice about diabetes management?",diabetes
+"I keep sneezing and my nose is blocked",cold_flu
+"My throat is scratchy and I have a cough",cold_flu
+"How long does a common cold usually last?",cold_flu
+"What can help with congestion from a cold?",cold_flu
+"Should I ask about an annual flu vaccine?",cold_flu
+"I have a runny nose and feel achy",cold_flu
+"How can I reduce spreading a respiratory infection at home?",cold_flu
+"I have a cough and mild cold symptoms",cold_flu
+"My blood pressure reading was higher than usual",hypertension
+"What habits may help lower blood pressure?",hypertension
+"How often should I measure my blood pressure?",hypertension
+"Can stress affect a person's blood pressure?",hypertension
+"What does the top number in a BP reading mean?",hypertension
+"I want to learn about food choices for hypertension",hypertension
+"What should I discuss with a clinician about BP medicine?",hypertension
+"How do I keep a record of my blood pressure readings?",hypertension
+"How do I find the clinic's opening hours?",general_query
+"Can you explain how to schedule a doctor appointment?",general_query
+"Where can I ask about a health insurance reimbursement?",general_query
+"I need information about renewing a prescription",general_query
+"How can I book a laboratory test?",general_query
+"Where do I ask about my medical records?",general_query
+"Who can help me understand the clinic registration process?",general_query
+"How do I contact the healthcare support desk?",general_query
