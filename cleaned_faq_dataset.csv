@@ -1,0 +1,41 @@
+text,intent,confidence
+i have high temperature,fever,0.92
+running fever since 2 days,fever,0.86
+body temperature 102,fever,0.82
+fever with chills,fever,0.85
+mild fever in child,fever,0.89
+what should i do if body temperature 102?,fever,0.88
+what should i do if i have high temperature?,fever,0.85
+suspected malaria symptoms,malaria,0.92
+mosquito bite fever,malaria,0.93
+chills and shivering,malaria,0.81
+malarial test results,malaria,0.84
+malaria prevention tips,malaria,0.83
+what should i do if malarial test results?,malaria,0.74
+what should i do if mosquito bite fever?,malaria,0.77
+blood sugar high,diabetes,0.86
+type 2 diabetes diet,diabetes,0.98
+insulin dosage query,diabetes,0.8
+fasting glucose level,diabetes,0.89
+diabetic foot care,diabetes,0.92
+what should i do if blood sugar high?,diabetes,0.73
+what should i do if type 2 diabetes diet?,diabetes,0.83
+runny nose and cough,cold_flu,0.82
+sore throat medicine,cold_flu,0.82
+flu vaccination,cold_flu,0.84
+cold symptoms relief,cold_flu,0.89
+common cold treatment,cold_flu,0.95
+what should i do if cold symptoms relief?,cold_flu,0.79
+what should i do if runny nose and cough?,cold_flu,0.77
+high blood pressure reading,hypertension,0.89
+bp medication query,hypertension,0.83
+hypertension diet,hypertension,0.84
+stress and blood pressure,hypertension,0.95
+bp monitoring,hypertension,0.85
+what should i do if bp monitoring?,hypertension,0.84
+nearest clinic hours,general_query,0.83
+how to book appointment,general_query,0.8
+health insurance claim,general_query,0.83
+prescription renewal,general_query,0.93
+lab test booking,general_query,0.84
+what should i do if lab test booking?,general_query,0.85

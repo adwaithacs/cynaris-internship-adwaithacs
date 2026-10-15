@@ -1,0 +1,212 @@
+[
+  {
+    "text": "i have high temperature",
+    "intent": "fever",
+    "confidence": 0.92
+  },
+  {
+    "text": "running fever since 2 days",
+    "intent": "fever",
+    "confidence": 0.86
+  },
+  {
+    "text": "body temperature 102",
+    "intent": "fever",
+    "confidence": 0.82
+  },
+  {
+    "text": "fever with chills",
+    "intent": "fever",
+    "confidence": 0.85
+  },
+  {
+    "text": "mild fever in child",
+    "intent": "fever",
+    "confidence": 0.89
+  },
+  {
+    "text": "what should I do if body temperature 102?",
+    "intent": "fever",
+    "confidence": 0.88
+  },
+  {
+    "text": "what should I do if i have high temperature?",
+    "intent": "fever",
+    "confidence": 0.85
+  },
+  {
+    "text": "suspected malaria symptoms",
+    "intent": "malaria",
+    "confidence": 0.92
+  },
+  {
+    "text": "mosquito bite fever",
+    "intent": "malaria",
+    "confidence": 0.93
+  },
+  {
+    "text": "chills and shivering",
+    "intent": "malaria",
+    "confidence": 0.81
+  },
+  {
+    "text": "malarial test results",
+    "intent": "malaria",
+    "confidence": 0.84
+  },
+  {
+    "text": "malaria prevention tips",
+    "intent": "malaria",
+    "confidence": 0.83
+  },
+  {
+    "text": "what should I do if malarial test results?",
+    "intent": "malaria",
+    "confidence": 0.74
+  },
+  {
+    "text": "what should I do if mosquito bite fever?",
+    "intent": "malaria",
+    "confidence": 0.77
+  },
+  {
+    "text": "blood sugar high",
+    "intent": "diabetes",
+    "confidence": 0.86
+  },
+  {
+    "text": "type 2 diabetes diet",
+    "intent": "diabetes",
+    "confidence": 0.98
+  },
+  {
+    "text": "insulin dosage query",
+    "intent": "diabetes",
+    "confidence": 0.8
+  },
+  {
+    "text": "fasting glucose level",
+    "intent": "diabetes",
+    "confidence": 0.89
+  },
+  {
+    "text": "diabetic foot care",
+    "intent": "diabetes",
+    "confidence": 0.92
+  },
+  {
+    "text": "what should I do if blood sugar high?",
+    "intent": "diabetes",
+    "confidence": 0.73
+  },
+  {
+    "text": "what should I do if type 2 diabetes diet?",
+    "intent": "diabetes",
+    "confidence": 0.83
+  },
+  {
+    "text": "runny nose and cough",
+    "intent": "cold_flu",
+    "confidence": 0.82
+  },
+  {
+    "text": "sore throat medicine",
+    "intent": "cold_flu",
+    "confidence": 0.82
+  },
+  {
+    "text": "flu vaccination",
+    "intent": "cold_flu",
+    "confidence": 0.84
+  },
+  {
+    "text": "cold symptoms relief",
+    "intent": "cold_flu",
+    "confidence": 0.89
+  },
+  {
+    "text": "common cold treatment",
+    "intent": "cold_flu",
+    "confidence": 0.95
+  },
+  {
+    "text": "what should I do if cold symptoms relief?",
+    "intent": "cold_flu",
+    "confidence": 0.79
+  },
+  {
+    "text": "what should I do if runny nose and cough?",
+    "intent": "cold_flu",
+    "confidence": 0.77
+  },
+  {
+    "text": "high blood pressure reading",
+    "intent": "hypertension",
+    "confidence": 0.89
+  },
+  {
+    "text": "BP medication query",
+    "intent": "hypertension",
+    "confidence": 0.83
+  },
+  {
+    "text": "hypertension diet",
+    "intent": "hypertension",
+    "confidence": 0.84
+  },
+  {
+    "text": "stress and blood pressure",
+    "intent": "hypertension",
+    "confidence": 0.95
+  },
+  {
+    "text": "BP monitoring",
+    "intent": "hypertension",
+    "confidence": 0.85
+  },
+  {
+    "text": "what should I do if BP monitoring?",
+    "intent": "hypertension",
+    "confidence": 0.84
+  },
+  {
+    "text": "what should I do if BP monitoring?",
+    "intent": "hypertension",
+    "confidence": 0.74
+  },
+  {
+    "text": "nearest clinic hours",
+    "intent": "general_query",
+    "confidence": 0.83
+  },
+  {
+    "text": "how to book appointment",
+    "intent": "general_query",
+    "confidence": 0.8
+  },
+  {
+    "text": "health insurance claim",
+    "intent": "general_query",
+    "confidence": 0.83
+  },
+  {
+    "text": "prescription renewal",
+    "intent": "general_query",
+    "confidence": 0.93
+  },
+  {
+    "text": "lab test booking",
+    "intent": "general_query",
+    "confidence": 0.84
+  },
+  {
+    "text": "what should I do if lab test booking?",
+    "intent": "general_query",
+    "confidence": 0.85
+  },
+  {
+    "text": "what should I do if lab test booking?",
+    "intent": "general_query",
+    "confidence": 0.76
+  }
+]
